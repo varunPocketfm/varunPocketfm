@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Varun</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varunPocketfm&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varunPocketfm&show_icons=true&theme=dark&count_private=true" />
 </p>
 
 <p align="center">
