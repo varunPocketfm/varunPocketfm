@@ -3,15 +3,15 @@
 <h1 align="center">Hi there 👋, I'm Varun</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varunPocketfm&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=varunPocketfm&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-compact&area=true&color=orange" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunPocketfm&theme=github-compact&area=true&color=orange" alt="Contribution Graph" />
 </p>
 
 
